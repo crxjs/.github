@@ -10,7 +10,7 @@ Read [GitHub's docs](https://docs.github.com/en/communities/setting-up-your-proj
 ![crxjs-logo](https://github.com/crxjs/.github/raw/main/crxjs-logo.svg)
 ```
 
-![crxjs-logo](https://github.com/crxjs/.github/raw/main/dcrxjs-logo.svg)
+![crxjs-logo](https://github.com/crxjs/.github/raw/main/crxjs-logo.svg)
 
 ## Banner
 

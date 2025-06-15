@@ -8,7 +8,7 @@
     transform="translate(5, 2) scale(0.5)"
   ></path>
 
-  <text x="35" y="19" 
+  <text x="35" y="19.5" 
         font-family="Verdana, Geneva, sans-serif" 
         font-size="12"
         font-weight="bold"
