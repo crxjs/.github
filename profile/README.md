@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://crxjs.dev/vite-plugin/"><img src="../crxjs-logo.svg" alt="CRXJS logo" width="240"></a>
+  <a href="https://crxjs.dev/"><img src="../crxjs-logo.svg" alt="CRXJS logo" width="240"></a>
   <h1>CRXJS</h1>
   <p>Modern Chrome extension development with built-in <code>HMR</code> and <code>zero-config</code> setup</p>
   <div>
