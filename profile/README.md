@@ -5,7 +5,7 @@
   <div>
     <a href="https://npmjs.com/package/@crxjs/vite-plugin"><img src="https://img.shields.io/npm/v/@crxjs/vite-plugin?color=298cd6&amp;label=CRXJS&labelColor=f2bae4" alt="npm"></a>
     <a href="https://discord.com/invite/FnnE4XR7Wj"><img src="https://img.shields.io/discord/887008823077343262?color=7289da&logo=discord" alt="Discord"></a>
-    <a href="https://crxjs.netlify.app/"><img src="https://img.shields.io/badge/Website-crxjs.dev-f2bae4.svg?color=298cd6&amp;&labelColor=f2bae4" alt="CRXJS Official Website"></a>
+    <a href="https://crxjs.dev/"><img src="https://img.shields.io/badge/Website-crxjs.dev-f2bae4.svg?color=298cd6&amp;&labelColor=f2bae4" alt="CRXJS Official Website"></a>
   </div>
 </div>
 
